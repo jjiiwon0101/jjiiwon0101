@@ -1,4 +1,4 @@
-## jjiiwon0101 o(=•ェ•=)m
+# o(=•ェ•=)m
 
 <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?STYLE"/>
 
