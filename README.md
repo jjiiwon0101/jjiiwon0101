@@ -1,5 +1,4 @@
-## jjiiwon0101 💗💟
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+## jjiiwon0101 o(=•ェ•=)m
 
 <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?STYLE"/>
 
