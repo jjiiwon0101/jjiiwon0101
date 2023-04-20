@@ -8,8 +8,6 @@
 </a>
 
 
-**This is DungGenmo text**
-
 
 
 
