@@ -4,7 +4,7 @@
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjiiwon0101&theme=tokyonight&show_icons=true" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jjiiwon0101&theme=tokyonight&show_icons=true" width="60%" />
 </a>
 
 
