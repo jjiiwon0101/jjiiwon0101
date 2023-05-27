@@ -8,7 +8,7 @@
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjiiwon0101&theme=Gradient&show_icons=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jjiiwon0101&theme=cobalt&show_icons=true" width="50%" />
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jjiiwon0101&theme=date-night)](https://git.io/streak-stats)
