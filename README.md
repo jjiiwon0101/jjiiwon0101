@@ -11,7 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jjiiwon0101&theme=tokyonight&show_icons=true" width="50%" />
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jjiiwon0101&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=jjiiwon0101&theme=tokyonight&show_icons=true" width="50%" />
+</a>
 
 
 
