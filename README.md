@@ -11,9 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jjiiwon0101&theme=tokyonight&show_icons=true" width="50%" />
 </a>
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjiiwon0101&theme=tokyonight&show_icons=true" width="50%" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jjiiwon0101&theme=date-night)](https://git.io/streak-stats)
 
 
 
