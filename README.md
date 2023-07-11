@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&animation=fadeIn&section=footer&text=o(=•ェ•=)m&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&width=100%&animation=fadeIn&section=footer&text=o(=•ェ•=)m&fontAlign=70)
 
 #   Welcome jjiiwon0101 github💕
 <link rel="preconnect" href="https://fonts.googleapis.com">
